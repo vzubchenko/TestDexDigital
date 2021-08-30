@@ -1,0 +1,1 @@
+alias php="/usr/local/bin/php7.4"
